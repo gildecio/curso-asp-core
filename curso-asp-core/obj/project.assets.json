@@ -11800,9 +11800,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Décio\\Documents\\BIBLIOTECA\\CURSO-ASP-CORE\\curso-asp-core\\curso-asp-core\\curso-asp-core.csproj",
-      "projectName": "curso-asp-core",
-      "projectPath": "C:\\Users\\Décio\\Documents\\BIBLIOTECA\\CURSO-ASP-CORE\\curso-asp-core\\curso-asp-core\\curso-asp-core.csproj",
+      "projectUniqueName": "C:\\Users\\Décio\\Documents\\BIBLIOTECA\\CURSO-ASP-CORE\\curso-asp-core\\curso-asp-core\\cursoAspCore.csproj",
+      "projectName": "cursoAspCore",
+      "projectPath": "C:\\Users\\Décio\\Documents\\BIBLIOTECA\\CURSO-ASP-CORE\\curso-asp-core\\curso-asp-core\\cursoAspCore.csproj",
       "packagesPath": "C:\\Users\\Décio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Décio\\Documents\\BIBLIOTECA\\CURSO-ASP-CORE\\curso-asp-core\\curso-asp-core\\obj\\",
       "projectStyle": "PackageReference",
