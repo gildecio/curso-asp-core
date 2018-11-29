@@ -1,0 +1,14 @@
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\bin\Debug\netcoreapp2.1\curso-asp-core.deps.json
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\bin\Debug\netcoreapp2.1\curso-asp-core.runtimeconfig.json
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\bin\Debug\netcoreapp2.1\curso-asp-core.runtimeconfig.dev.json
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\bin\Debug\netcoreapp2.1\curso-asp-core.dll
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\bin\Debug\netcoreapp2.1\curso-asp-core.pdb
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.csprojAssemblyReference.cache
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.csproj.CoreCompileInputs.cache
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.RazorAssemblyInfo.cache
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.RazorAssemblyInfo.cs
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.AssemblyInfoInputs.cache
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.AssemblyInfo.cs
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.RazorTargetAssemblyInfo.cache
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.dll
+C:\Users\Décio\Documents\BIBLIOTECA\CURSO-ASP-CORE\curso-asp-core\curso-asp-core\obj\Debug\netcoreapp2.1\curso-asp-core.pdb
